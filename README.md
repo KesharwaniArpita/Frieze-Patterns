@@ -18,3 +18,12 @@ line, they are said to possess vertical symmetry.
 sleeping line, they are said to possess vertical symmetry.
 * Rotation (R): When the movement of the motif is fixed around an axis, the pattern
 contains rotational symmetry.
+### The Seven Frieze Groups
+There are seven distinct frieze groups. 
+1. Hop - Translation Symmetry
+2. Step - Translational and glide reflection symmetries
+3. Sidle - Translational and vertical reflection symmetries
+4. Jump - Tanslation and horizontal reflection symmetries
+5. Spinning Hop - Translation and rotation (by a half-turn) symmetries
+6. Spinning Sidle - translation, glide reflection and rotation (by a half-turn) symmetries
+7. Spinning Hop - all symmetries- translation, horizontal & vertical reflection, and rotation
